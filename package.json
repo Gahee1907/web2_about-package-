@@ -1,6 +1,10 @@
 {
   "name": "web2_about",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gahee1907/web2_about-package-.git"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
